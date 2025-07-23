@@ -1,0 +1,16 @@
+# Ignorar la carpeta de módulos de Node.js
+node_modules/
+
+# Ignorar la carpeta de audios subidos
+uploads/
+
+# Ignorar el archivo de base de datos SQLite
+data.db
+
+# Ignorar archivos de logs (si se generan)
+*.log
+npm-debug.log*
+
+# Ignorar archivos de entorno local (si los usas)
+.env
+.env.*
